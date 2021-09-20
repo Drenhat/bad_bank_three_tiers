@@ -1,0 +1,22 @@
+
+.mb-3 {
+    color: white;
+    margin: 20px;
+}
+
+.card-header {
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.alldata-operation {
+    font-size: 2em;
+}
+
+#logs {
+    font-size: 0.5em;
+    list-style: none;
+}
+
+
+
